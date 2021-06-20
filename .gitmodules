@@ -1,0 +1,12 @@
+[submodule "Zeugwerk-Framework"]
+	path = Zeugwerk-Framework
+	url = git@github.com:Zeugwerk/Zeugwerk-Framework.git
+[submodule "Zeugwerk-Creator"]
+	path = Zeugwerk-Creator
+	url = git@github.com:Zeugwerk/Zeugwerk-Creator.git
+[submodule "Tutorial-Quickstart"]
+	path = Tutorial-Quickstart
+	url = git@github.com:Zeugwerk/Tutorial-Quickstart.git
+[submodule "Tutorial-Quickstart-Visualization"]
+	path = Tutorial-Quickstart-Visualization
+	url = git@github.com:Zeugwerk/Tutorial-Quickstart-Visualization.git
