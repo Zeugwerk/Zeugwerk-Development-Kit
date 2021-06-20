@@ -1,0 +1,36 @@
+{
+    "repositories": [
+        {
+            "name": "IaCore",
+            "url": "git@github.com:infinite-automation/IaCore.git"
+        },
+        {
+            "name": "IaPlatform",
+            "url": "git@github.com:infinite-automation/IaPlatform.git"
+        },
+                {
+            "name": "IaAux",
+            "url": "git@github.com:infinite-automation/IaAux.git"
+        },
+        {
+            "name": "IaEquipment",
+            "url": "git@github.com:infinite-automation/IaEquipment.git"
+        },
+        {
+            "name": "IaApplication",
+            "url": "git@github.com:infinite-automation/IaApplication.git"
+        },
+        {
+            "name": "IaEquipmentbeckhoff",
+            "url": "git@github.com:infinite-automation/IaEquipmentbeckhoff.git"
+        },
+        {
+            "name": "IaEquipmentpepperlfuchs",
+            "url": "git@github.com:infinite-automation/IaEquipmentpepperlfuchs.git"
+        },
+        {
+            "name": "iaexperimental",
+            "url": "git@github.com:infinite-automation/iaexperimental.git"
+        }
+    ]
+}
