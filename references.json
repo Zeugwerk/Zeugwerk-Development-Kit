@@ -1,6 +1,10 @@
 {
     "repositories": [
         {
+            "name": "tc3vsix",
+            "url": "git@github.com:infinite-automation/tc3vsix.git 
+        },        
+        {
             "name": "tc3bindings",
             "url": "git@github.com:infinite-automation/tc3bindings.git"
         },
