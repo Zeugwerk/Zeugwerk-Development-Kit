@@ -1,10 +1,6 @@
 {
     "repositories": [
         {
-            "name": "infiniteautomation",
-            "url": "git@github.com:infinite-automation/infiniteautomation.git"
-        },    
-        {
             "name": "tc3bindings",
             "url": "git@github.com:infinite-automation/tc3bindings.git"
         },
@@ -36,7 +32,7 @@
             "name": "IaPlatform",
             "url": "git@github.com:infinite-automation/IaPlatform.git"
         },
-                {
+        {
             "name": "IaAux",
             "url": "git@github.com:infinite-automation/IaAux.git"
         },
