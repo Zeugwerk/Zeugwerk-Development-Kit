@@ -1,64 +1,65 @@
 {
-    "repositories": [
-        {
+    "repositories":     [
+                {
             "name": "tc3vsix",
             "url": "git@github.com:infinite-automation/tc3vsix.git"
-        },        
-        {
+        },
+                {
             "name": "tc3bindings",
             "url": "git@github.com:infinite-automation/tc3bindings.git"
         },
-        {
+                {
             "name": "tc3buildtools",
             "url": "git@github.com:infinite-automation/tc3buildtools.git"
         },
-        {
+                {
             "name": "tc3licenser",
             "url": "git@github.com:infinite-automation/tc3licenser.git"
         },
-        {
+                {
             "name": "tc3routertool",
             "url": "git@github.com:infinite-automation/tc3routertool.git "
         },
-        {
+                {
             "name": "tc3servicetool",
             "url": "git@github.com:infinite-automation/tc3servicetool.git "
         },
-        {
+                {
             "name": "Ia.Framework",
             "url": "git@github.com:infinite-automation/Ia.Framework.git"
-        },        
-        {
+        },
+                {
             "name": "IaCore",
             "url": "git@github.com:infinite-automation/IaCore.git"
         },
-        {
+                {
             "name": "IaPlatform",
             "url": "git@github.com:infinite-automation/IaPlatform.git"
         },
-        {
+                {
             "name": "IaAux",
             "url": "git@github.com:infinite-automation/IaAux.git"
         },
-        {
+                {
             "name": "IaEquipment",
             "url": "git@github.com:infinite-automation/IaEquipment.git"
         },
-        {
+                {
             "name": "IaApplication",
             "url": "git@github.com:infinite-automation/IaApplication.git"
         },
-        {
+                {
             "name": "IaEquipmentbeckhoff",
             "url": "git@github.com:infinite-automation/IaEquipmentbeckhoff.git"
         },
-        {
+                {
             "name": "IaEquipmentpepperlfuchs",
             "url": "git@github.com:infinite-automation/IaEquipmentpepperlfuchs.git"
         },
-        {
+                {
             "name": "IaExperimental",
             "url": "git@github.com:infinite-automation/IaExperimental.git"
         }
-    ]
+    ],
+    "version": "0.8.1.0"
 }
