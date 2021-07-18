@@ -51,10 +51,10 @@ Name: "PLC\Variant\default"; Description: "Simulation"; Flags: exclusive; Types:
 Name: "Servicetool"; Description: "Servicetool"; Flags: fixed; Types: full servicetool
 
 [Files]
-Source: "..\tc3routertool\*"; DestDir: "{app}\tc3routertool"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "..\tc3servicetool\*"; DestDir: "{app}\tc3servicetool"; Flags: ignoreversion recursesubdirs createallsubdirs; Components: servicetool
-Source: "..\doc\html\*"; DestDir: "{app}\tc3servicetool\wwwroot\doc\html"; Flags: ignoreversion recursesubdirs createallsubdirs; Components: servicetool
-Source: "..\plc_TC3.1.4024.17_default\*"; DestDir: "{app}\plc\plc_TC3.1.4024.17_default\"; Flags: ignoreversion recursesubdirs;
+Source: "..\..\tc3routertool\*"; DestDir: "{app}\tc3routertool"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "..\..\tc3servicetool\*"; DestDir: "{app}\tc3servicetool"; Flags: ignoreversion recursesubdirs createallsubdirs; Components: servicetool
+Source: "..\..\doc\html\*"; DestDir: "{app}\tc3servicetool\wwwroot\doc\html"; Flags: ignoreversion recursesubdirs createallsubdirs; Components: servicetool
+Source: "..\..\plc_TC3.1.4024.17_default\*"; DestDir: "{app}\plc\plc_TC3.1.4024.17_default\"; Flags: ignoreversion recursesubdirs;
 
 [Icons]
 Name: "{#Tc3Root}\Target\StartUp\tc3servicetool"; Filename: "{app}\tc3servicetool\tc3servicetool.Server.exe"
