@@ -1,7 +1,7 @@
 ;#define MyAppName "iafdemo"
 ;#define MyAppVersion "0.0.0.0"
-#define MyAppPublisher "Infinite Automation GmbH"
-#define MyAppURL "https://infiniteautomation.at/"
+#define MyAppPublisher "Zeugwerk GmbH"
+#define MyAppURL "https://www.zeugwerk.at/"
 #define Tc3Root "C:\TwinCAT\3.1"
 
 [Setup]
@@ -22,7 +22,7 @@ DisableDirPage=no
 UsePreviousAppDir=no
 VersionInfoCompany=#{MyAppPublisher}
 VersionInfoProductName=#{MyAppName}
-;SetupIconFile=C:\Users\matth\Infinite Automation\Infinite Automation - Business\iaf\Logo\Logo.png
+;SetupIconFile=C:\Users\matth\Zeugwerk\Zeugwerk - Business\iaf\Logo\Logo.png
 CloseApplications=force
 RestartApplications=True
 
