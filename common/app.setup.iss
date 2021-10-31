@@ -45,7 +45,7 @@ Filename: http://localhost; Description: {cm:ConnectToServicetool,{cm:Servicetoo
 [Components]
 Name: "PLC"; Description: "PLC"; Types: full servicetool; Flags: fixed
 Name: "PLC\TwinCAT"; Description: "Target TwinCAT"; Flags: fixed; Types: full
-Name: "PLC\TwinCAT\TC3_1_4024_17"; Description: "3.1.4024.22"; Flags: exclusive; Types: full
+Name: "PLC\TwinCAT\TC3_1_4024_22"; Description: "3.1.4024.22"; Flags: exclusive; Types: full
 Name: "PLC\Variant"; Description: "Target Variant"; Flags: fixed; Types: full
 Name: "PLC\Variant\default"; Description: "Simulation"; Flags: exclusive; Types: full
 Name: "Servicetool"; Description: "Servicetool"; Flags: fixed; Types: full servicetool
