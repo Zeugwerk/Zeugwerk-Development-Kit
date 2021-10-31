@@ -45,7 +45,7 @@ Filename: http://localhost; Description: {cm:ConnectToServicetool,{cm:Servicetoo
 [Components]
 Name: "PLC"; Description: "PLC"; Types: full servicetool; Flags: fixed
 Name: "PLC\TwinCAT"; Description: "Target TwinCAT"; Flags: fixed; Types: full
-Name: "PLC\TwinCAT\TC3_1_4024_17"; Description: "3.1.4024.17"; Flags: exclusive; Types: full
+Name: "PLC\TwinCAT\TC3_1_4024_17"; Description: "3.1.4024.22"; Flags: exclusive; Types: full
 Name: "PLC\Variant"; Description: "Target Variant"; Flags: fixed; Types: full
 Name: "PLC\Variant\default"; Description: "Simulation"; Flags: exclusive; Types: full
 Name: "Servicetool"; Description: "Servicetool"; Flags: fixed; Types: full servicetool
@@ -54,7 +54,7 @@ Name: "Servicetool"; Description: "Servicetool"; Flags: fixed; Types: full servi
 Source: "..\..\tc3routertool\*"; DestDir: "{app}\tc3routertool"; Flags: ignoreversion recursesubdirs createallsubdirs
 Source: "..\..\tc3servicetool\*"; DestDir: "{app}\tc3servicetool"; Flags: ignoreversion recursesubdirs createallsubdirs; Components: servicetool
 Source: "..\..\doc\html\*"; DestDir: "{app}\tc3servicetool\wwwroot\doc\html"; Flags: ignoreversion recursesubdirs createallsubdirs; Components: servicetool
-Source: "..\..\plc_TC3.1.4024.17_default\*"; DestDir: "{app}\plc\plc_TC3.1.4024.17_default\"; Flags: ignoreversion recursesubdirs;
+Source: "..\..\plc_TC3.1.4024.22_default\*"; DestDir: "{app}\plc\plc_TC3.1.4024.22_default\"; Flags: ignoreversion recursesubdirs;
 
 [Icons]
 Name: "{#Tc3Root}\Target\StartUp\tc3servicetool"; Filename: "{app}\tc3servicetool\tc3servicetool.Server.exe"
@@ -72,7 +72,7 @@ begin
   //  True, False);
 
   // Add items
-  //HardwareConfigPage.Add('TC3.1.4024.17_default');
+  //HardwareConfigPage.Add('TC3.1.4024.22_default');
   //HardwareConfigPage.CheckListBox.Checked[0] := true;
 
   // Logo
@@ -165,7 +165,7 @@ begin
 
     if WizardIsComponentSelected('PLC\TwinCAT\TC3_1_4024_17') then
     begin
-      SelectedTwinCAT := 'TC3.1.4024.17'
+      SelectedTwinCAT := 'TC3.1.4024.22'
     end;
 
     if WizardIsComponentSelected('PLC\Variant\default') then
