@@ -1,4 +1,4 @@
-;#define MyAppName "iafdemo"
+;#define MyAppName "Zeugwerk_Framework_App"
 ;#define MyAppVersion "0.0.0.0"
 #define MyAppPublisher "Zeugwerk GmbH"
 #define MyAppURL "https://www.zeugwerk.at/"
@@ -46,6 +46,8 @@ Filename: http://localhost; Description: {cm:ConnectToServicetool,{cm:Servicetoo
 Name: "PLC"; Description: "PLC"; Types: full servicetool; Flags: fixed
 Name: "PLC\TwinCAT"; Description: "Target TwinCAT"; Flags: fixed; Types: full
 Name: "PLC\TwinCAT\TC3_1_4024_22"; Description: "3.1.4024.22"; Flags: exclusive; Types: full
+Name: "PLC\TwinCAT\TC3_1_4024_12"; Description: "3.1.4024.12"; Flags: exclusive; Types: full
+
 Name: "PLC\Variant"; Description: "Target Variant"; Flags: fixed; Types: full
 Name: "PLC\Variant\default"; Description: "Simulation"; Flags: exclusive; Types: full
 Name: "Servicetool"; Description: "Servicetool"; Flags: fixed; Types: full servicetool
@@ -55,55 +57,12 @@ Source: "..\..\tc3routertool\*"; DestDir: "{app}\tc3routertool"; Flags: ignoreve
 Source: "..\..\tc3servicetool\*"; DestDir: "{app}\tc3servicetool"; Flags: ignoreversion recursesubdirs createallsubdirs; Components: servicetool
 Source: "..\..\doc\html\*"; DestDir: "{app}\tc3servicetool\wwwroot\doc\html"; Flags: ignoreversion recursesubdirs createallsubdirs; Components: servicetool
 Source: "..\..\plc_TC3.1.4024.22_default\*"; DestDir: "{app}\plc\plc_TC3.1.4024.22_default\"; Flags: ignoreversion recursesubdirs;
+Source: "..\..\plc_TC3.1.4024.12_default\*"; DestDir: "{app}\plc\plc_TC3.1.4024.12_default\"; Flags: ignoreversion recursesubdirs;
 
 [Icons]
 Name: "{#Tc3Root}\Target\StartUp\tc3servicetool"; Filename: "{app}\tc3servicetool\tc3servicetool.Server.exe"
 
-[Code]
-procedure InitializeWizard;
-var
-  VersionLabel: TNewStaticText;
-begin
-  { Create the pages }
-  
-  //HardwareConfigPage := CreateInputOptionPage(wpWelcome,
-  //  'Hardware configuration', 'Multiple variants are supported, select the one that should be activated on this target',
-  //  'Select the hardware configuration of the target you want to install.',
-  //  True, False);
-
-  // Add items
-  //HardwareConfigPage.Add('TC3.1.4024.22_default');
-  //HardwareConfigPage.CheckListBox.Checked[0] := true;
-
-  // Logo
-  //LogoImage := TBitmapImage.Create(WizardForm);
-  //ExtractTemporaryFile('Logo.bmp');
-  //LogoImage.Bitmap.LoadFromFile(ExpandConstant('{tmp}\Logo.bmp'));
-  //LogoImage.Parent := WizardForm;
-  //LogoImage.Width := ScaleX(65);
-  //LogoImage.Height := ScaleX(29);
-  //LogoImage.Left := ScaleX(16);
-  //{ Below the inner page }
-  //LogoImage.Top := 
-  //  WizardForm.BackButton.Top +
-  //  (WizardForm.BackButton.Height div 2) -
-  //  (LogoImage.Height div 2);
-
-  // Version
-  VersionLabel := TNewStaticText.Create(WizardForm);
-  VersionLabel.Caption := '{#MyAppVersion}';
-  
-  VersionLabel.Parent := WizardForm;
-  VersionLabel.Font.Style := [];
-  VersionLabel.Font.Name := 'Calibri';
-  VersionLabel.Font.Size := 18;
-  //VersionLabel.Left := LogoImage.Left + LogoImage.Width + ScaleX(16);
-  VersionLabel.Top :=
-    WizardForm.BackButton.Top +
-    (WizardForm.BackButton.Height div 2) -
-    (VersionLabel.Height div 2);
-end;
-
+[CODE]
 procedure DirectoryCopy(SourcePath, DestPath: string);
 var
   FindRec: TFindRec;
@@ -163,10 +122,15 @@ begin
   if CurStep = ssPostInstall then
   begin
 
-    if WizardIsComponentSelected('PLC\TwinCAT\TC3_1_4024_17') then
+	if WizardIsComponentSelected('PLC\TwinCAT\TC3_1_4024_22') then
     begin
       SelectedTwinCAT := 'TC3.1.4024.22'
     end;
+	if WizardIsComponentSelected('PLC\TwinCAT\TC3_1_4024_12') then
+    begin
+      SelectedTwinCAT := 'TC3.1.4024.12'
+    end;
+	
 
     if WizardIsComponentSelected('PLC\Variant\default') then
     begin
