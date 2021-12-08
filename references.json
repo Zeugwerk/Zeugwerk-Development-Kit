@@ -1,64 +1,64 @@
 {
-    "repositories":     [
-                {
-            "name": "tc3vsix",
-            "url": "git@github.com:infinite-automation/tc3vsix.git"
+    "repositories": [
+        {
+            "name": "tc3routertool",
+            "url": "git@github.com:infinite-automation/tc3routertool.git"
         },
-                {
+        {
             "name": "tc3bindings",
             "url": "git@github.com:infinite-automation/tc3bindings.git"
         },
-                {
+        {
             "name": "tc3buildtools",
             "url": "git@github.com:infinite-automation/tc3buildtools.git"
         },
-                {
-            "name": "tc3licenser",
-            "url": "git@github.com:infinite-automation/tc3licenser.git"
-        },
-                {
-            "name": "tc3routertool",
-            "url": "git@github.com:infinite-automation/tc3routertool.git "
-        },
-                {
+        {
             "name": "tc3servicetool",
             "url": "git@github.com:infinite-automation/tc3servicetool.git "
         },
-                {
-            "name": "Ia.Framework",
-            "url": "git@github.com:infinite-automation/Ia.Framework.git"
+        {
+            "name": "Zeugwerk-Framework",
+            "url": "git@github.com:Zeugwerk/Zeugwerk-Framework.git"
         },
-                {
-            "name": "IaCore",
-            "url": "git@github.com:infinite-automation/IaCore.git"
+        {
+            "name": "Zeugwerk-Creator",
+            "url": "git@github.com:Zeugwerk/Zeugwerk-Creator.git"
+        },        
+        {
+            "name": "ZCore",
+            "url": "git@github.com:Zeugwerk/ZCore.git"
         },
-                {
-            "name": "IaPlatform",
-            "url": "git@github.com:infinite-automation/IaPlatform.git"
+        {
+            "name": "ZPlatform",
+            "url": "git@github.com:Zeugwerk/ZPlatform.git"
         },
-                {
-            "name": "IaAux",
-            "url": "git@github.com:infinite-automation/IaAux.git"
+        {
+            "name": "ZPlatformCodesys35",
+            "url": "git@github.com:Zeugwerk/ZPlatformCodesys35.git"
+        },        
+        {
+            "name": "ZAux",
+            "url": "git@github.com:Zeugwerk/ZAux.git"
         },
-                {
-            "name": "IaEquipment",
-            "url": "git@github.com:infinite-automation/IaEquipment.git"
+        {
+            "name": "ZEquipment",
+            "url": "git@github.com:Zeugwerk/ZEquipment.git"
         },
-                {
-            "name": "IaApplication",
-            "url": "git@github.com:infinite-automation/IaApplication.git"
+         {
+            "name": "ZApplication",
+            "url": "git@github.com:Zeugwerk/ZApplication.git"
         },
-                {
-            "name": "IaEquipmentbeckhoff",
-            "url": "git@github.com:infinite-automation/IaEquipmentbeckhoff.git"
+         {
+            "name": "ZEquipmentBeckhoff",
+            "url": "git@github.com:Zeugwerk/ZEquipmentBeckhoff.git"
         },
-                {
-            "name": "IaEquipmentpepperlfuchs",
-            "url": "git@github.com:infinite-automation/IaEquipmentpepperlfuchs.git"
+        {
+            "name": "ZEquipmentPepperlFuchs",
+            "url": "git@github.com:Zeugwerk/ZEquipmentPepperlFuchs.git"
         },
-                {
-            "name": "IaExperimental",
-            "url": "git@github.com:infinite-automation/IaExperimental.git"
+        {
+            "name": "ZExperimental",
+            "url": "git@github.com:Zeugwerk/ZExperimental.git"
         }
     ],
     "version": "0.8.1.0"

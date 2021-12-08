@@ -1,0 +1,45 @@
+[submodule "Zeugwerk-Framework"]
+	path = Zeugwerk-Framework
+	url = git@github-aboutblank0815:Zeugwerk/Zeugwerk-Framework.git
+[submodule "Zeugwerk-DevTools"]
+	path = Zeugwerk-DevTools
+	url = git@github-aboutblank0815:Zeugwerk/Zeugwerk-DevTools.git
+[submodule "ZCore"]
+	path = ZCore
+	url = git@github-aboutblank0815:Zeugwerk/ZCore.git
+[submodule "ZPlatform"]
+	path = ZPlatform
+	url = git@github-aboutblank0815:Zeugwerk/ZPlatform.git
+[submodule "ZAux"]
+	path = ZAux
+	url = git@github-aboutblank0815:Zeugwerk/ZAux.git
+[submodule "ZEquipment"]
+	path = ZEquipment
+	url = git@github-aboutblank0815:Zeugwerk/ZEquipment.git
+[submodule "ZApplication"]
+	path = ZApplication
+	url = git@github-aboutblank0815:Zeugwerk/ZApplication.git
+[submodule "ZEquipmentBeckhoff"]
+	path = ZEquipmentBeckhoff
+	url = git@github-aboutblank0815:Zeugwerk/ZEquipmentBeckhoff.git
+[submodule "ZEquipmentPepperlFuchs"]
+	path = ZEquipmentPepperlFuchs
+	url = git@github-aboutblank0815:Zeugwerk/ZEquipmentPepperlFuchs.git
+[submodule "ZExperimental"]
+	path = ZExperimental
+	url = git@github-aboutblank0815:Zeugwerk/ZExperimental.git
+[submodule "ZPlatformCodesys35"]
+	path = ZPlatformCodesys35
+	url = git@github-aboutblank0815:Zeugwerk/ZPlatformCodesys35.git
+[submodule "Zeugwerk-Creator"]
+	path = Zeugwerk-Creator
+	url = git@github-aboutblank0815:Zeugwerk/Zeugwerk-Creator.git
+[submodule "tc3bindings"]
+	path = tc3bindings
+	url = git@github-aboutblank0815:infinite-automation/tc3bindings.git
+[submodule "tc3servicetool"]
+	path = tc3servicetool
+	url = git@github-aboutblank0815:infinite-automation/tc3servicetool.git
+[submodule "tc3routertool"]
+	path = tc3routertool
+	url = git@github-aboutblank0815:infinite-automation/tc3routertool.git
