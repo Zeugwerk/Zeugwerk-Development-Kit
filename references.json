@@ -1,62 +1,62 @@
 {
-    "repositories": [
-        {
+    "repositories":     [
+                {
             "name": "tc3routertool",
             "url": "git@github.com:infinite-automation/tc3routertool.git"
         },
-        {
+                {
             "name": "tc3bindings",
             "url": "git@github.com:infinite-automation/tc3bindings.git"
         },
-        {
+                {
             "name": "tc3buildtools",
             "url": "git@github.com:infinite-automation/tc3buildtools.git"
         },
-        {
+                {
             "name": "tc3servicetool",
             "url": "git@github.com:infinite-automation/tc3servicetool.git "
         },
-        {
+                {
             "name": "Zeugwerk-Framework",
             "url": "git@github.com:Zeugwerk/Zeugwerk-Framework.git"
         },
-        {
+                {
             "name": "Zeugwerk-Creator",
             "url": "git@github.com:Zeugwerk/Zeugwerk-Creator.git"
-        },        
-        {
+        },
+                {
             "name": "ZCore",
             "url": "git@github.com:Zeugwerk/ZCore.git"
         },
-        {
+                {
             "name": "ZPlatform",
             "url": "git@github.com:Zeugwerk/ZPlatform.git"
         },
-        {
+                {
             "name": "ZPlatformCodesys35",
             "url": "git@github.com:Zeugwerk/ZPlatformCodesys35.git"
-        },        
-        {
+        },
+                {
             "name": "ZAux",
             "url": "git@github.com:Zeugwerk/ZAux.git"
         },
-        {
+                {
             "name": "ZEquipment",
             "url": "git@github.com:Zeugwerk/ZEquipment.git"
         },
-         {
+                {
             "name": "ZApplication",
             "url": "git@github.com:Zeugwerk/ZApplication.git"
         },
-         {
+                {
             "name": "ZEquipmentBeckhoff",
             "url": "git@github.com:Zeugwerk/ZEquipmentBeckhoff.git"
         },
-        {
+                {
             "name": "ZEquipmentPepperlFuchs",
             "url": "git@github.com:Zeugwerk/ZEquipmentPepperlFuchs.git"
         },
-        {
+                {
             "name": "ZExperimental",
             "url": "git@github.com:Zeugwerk/ZExperimental.git"
         }
