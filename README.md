@@ -6,16 +6,18 @@ We at Zeugwerk GmbH are a team of experts in the field of modern software engine
 We support companies in developing automation software based on modern concepts and standardization. The aim is to be able to deliver sustainably stable, error-free software in short intervals.
 
 With the products **Zeugwerk Framework** and **Zeugwerk Creator**, Zeugwerk offers a fully integrated application framework for the structured development of PLC software.
-Zeugwerk Framework is completely object-oriented. Libraries and applications have a consistent, modern architecture.
-In addition to the fully integrated Zeugwerk application, the framework objects can also be easily used in existing PLC projects and thus create
-an immediate added value.
-Zeugwerk Creator is an extension of the development environment (TwinCAT XAE Shell). The additional functions in the IDE make the development of a framework-based Zeugwerk application child's play.
+Zeugwerk Framework is a set of libraries together with an application template. The libraries are programmed fully object-oriented, which facilities modularization and reuseabilitx. Libraries and applications have a consistent, 
+modern architecture and are automatically unit- and integration tested via Continuous Integration.
+In addition to the fully integrated Zeugwerk application, all framework objects can also be easily used in existing PLC projects and thus create
+an immediate added value and facilitates the transition from classical PLC to a framework-driven PLC substantially.
+Zeugwerk Creator is an extension of the development environment (TwinCAT XAE Shell). The additional functions it makes available in the IDE make developing of a framework-based application a piece of cake.
 
 ## Quickstart
 
-The **Zeugwerk Development Kit** contains the PLC libraries, the application template of the Zeugwerk Framework and the Zeugwerk Creator as an extension of the TwinCAT XAE Shell development environment for fast, error-free development.
+To get started quickly, we created **Zeugwerk Development Kit**. It contains the PLC libraries, the application template, which together form the Zeugwerk Framework and the Zeugwerk Creator as an extension of the TwinCAT XAE Shell development environment for fast, error-free development.
+Additionally, to show you how it feels to develop a Zeugwerk application, it includes the template for a Quickstart application and a virtual model for commissioning.
 
-Start with the <a href="https://doc.zeugwerk.dev/quickstart/quickstart.html">Community Edition of the Zeugwerk Development Kit</a>, it includes a complete Quickstart application and a virtual model for commissioning.
+Download <a href="https://doc.zeugwerk.dev/quickstart/quickstart.html">Zeugwerk-Development-Kit CE</a> (Community Edition) and walkthrough the Download <a href="https://doc.zeugwerk.dev/quickstart/quickstart.html">Quickstart guide</a>.
 
 <div class="gallery">
   <div class="gallery-item">
