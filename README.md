@@ -8,8 +8,7 @@ We support companies in developing automation software based on modern concepts 
 With the products **Zeugwerk Framework** and **Zeugwerk Creator**, Zeugwerk offers a fully integrated application framework for the structured development of PLC software.
 Zeugwerk Framework is a set of libraries together with an application template. The libraries are programmed fully object-oriented, which facilities modularization and reuseabilitx. Libraries and applications have a consistent, 
 modern architecture and are automatically unit- and integration tested via Continuous Integration.
-In addition to the fully integrated Zeugwerk application, all framework objects can also be easily used in existing PLC projects and thus create
-an immediate added value and facilitates the transition from classical PLC to a framework-driven PLC substantially.
+In addition to the fully integrated Zeugwerk application, all framework objects can also be easily used in existing PLC projects and thus adds immediate value to your PLC. The latter also facilitates the transition from classical PLC programming to framework-driven, object-oriented programming substantially.
 Zeugwerk Creator is an extension of the development environment (TwinCAT XAE Shell). The additional functions it makes available in the IDE make developing of a framework-based application a piece of cake.
 
 ## Quickstart
