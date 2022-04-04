@@ -32,13 +32,16 @@ The framework libraries of the Community Edition are fully functional for 4 hour
 ## Documentation
 
 The Zeugwerk Framework offers extensive documentation.
+- <a href="https://doc.zeugwerk.dev/index.html">Overview Community and Pro Edition</a>
 - <a href="https://doc.zeugwerk.dev/quickstart/quickstart.html">Getting started with Zeugwerk (Quickstart)</a>
 - <a href="https://doc.zeugwerk.dev/reference/ZCore/BaseTypes/Conversion/ZBytes2.html">API reference</a>
 - <a href="https://doc.zeugwerk.dev/userguide/tutorials/tutorials.html">User Guide (Tutorials, Overview, Concepts, ...)</a> 
 
 ## License
 
-The Zeugwerk products are available in different license models, please <a href="https://www.zeugwerk.at/kontakt/">contact us</a> for an individual offer.
+For commercial use, the Zeugwerk products are available as a 'Pro' version. Different license models are available for this, please <a href="https://www.zeugwerk.at/kontakt/">contact us</a> for an individual offer.
+
+The Community Edition is to be used for non-commercial purposes only.
 
 The <a href="https://www.zeugwerk.at/wp-content/uploads/sites/43/2022/03/AGB_ZeugwerkGmbH_V2.pdf">general terms and conditions</a> and <a href="https://www.zeugwerk.at/wp-content/uploads/sites/43/2022/03/ASB_ZeugwerkGmbH_V2.pdf">software conditions</a> for the Zeugwerk products can be found on the <a href="https://www.zeugwerk.at">Zeugwerk website</a>.
 
