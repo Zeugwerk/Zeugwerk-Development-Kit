@@ -13,10 +13,10 @@ Zeugwerk Creator is an extension of the development environment (TwinCAT XAE She
 
 ## Quickstart
 
-To get started quickly, we created **Zeugwerk Development Kit**. It contains the PLC libraries and the application template, which together form the Zeugwerk Framework and the Zeugwerk Creator as an extension of the TwinCAT XAE Shell development environment for fast, error-free development.
-Additionally, to show you how it feels to develop a Zeugwerk application, it includes the template for a Quickstart application and a virtual model for commissioning.
+To get started quickly, we created **Zeugwerk Development Kit**. It contains the PLC libraries and the application template, which together form the Zeugwerk Framework. Moreover, it installs Zeugwerk Creator as an extension of the TwinCAT XAE Shell development environment for fast, error-free development.
+Additionally, to show you how it feels to develop a Zeugwerk application, it includes the template for a Quickstart application and an interactive, virtual model for commissioning.
 
-Download <a href="https://doc.zeugwerk.dev/quickstart/quickstart.html">Zeugwerk-Development-Kit CE</a> (Community Edition) and walkthrough the Download <a href="https://doc.zeugwerk.dev/quickstart/quickstart.html">Quickstart guide</a>.
+Download <a href="https://doc.zeugwerk.dev/quickstart/quickstart.html">Zeugwerk-Development-Kit CE</a> (Community Edition) and then walkthrough the <a href="https://doc.zeugwerk.dev/quickstart/quickstart.html">Quickstart guide</a>.
 
 <div class="gallery">
   <div class="gallery-item">
