@@ -19,15 +19,7 @@
         },
             {
             "name": "Zeugwerk-Creator ",
-            "url": "git@github.com:Zeugwerk/Zeugwerk-Creator .git"
-        },
-            {
-            "name": "Zeugwerk-Creator ",
-            "url": "git@github.com:Zeugwerk/Zeugwerk-Creator .git"
-        },        
-                {
-            "name": "Zeugwerk-Framework",
-            "url": "git@github.com:Zeugwerk/Zeugwerk-Framework.git"
+            "url": "git@github.com:Zeugwerk/Zeugwerk-Creator.git"
         },
                 {
             "name": "ZCore",
