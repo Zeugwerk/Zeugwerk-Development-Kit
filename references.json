@@ -52,6 +52,18 @@
                 {
             "name": "ZExperimental",
             "url": "git@github.com:Zeugwerk/ZExperimental.git"
+        },
+                {
+            "name": "tc3servicetool",
+            "url": "git@github.com:infinite-automation/tc3servicetool.git"
+        },
+                {
+            "name": "tc3bindings",
+            "url": "git@github.com:infinite-automation/tc3bindings.git"
+        },
+                {
+            "name": "tc3routertool",
+            "url": "git@github.com:infinite-automation/tc3routertool.git"
         }
     ]
 }
