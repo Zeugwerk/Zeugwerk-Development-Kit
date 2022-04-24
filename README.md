@@ -40,7 +40,7 @@ The Zeugwerk Framework offers extensive documentation.
 
 ## License
 
-For commercial use, the Zeugwerk products are available as a 'Pro' version. Different license models are available for this, please <a href="https://www.zeugwerk.at/kontakt/">contact us</a> for an individual offer.
+For commercial use, the Zeugwerk products are available as a 'Pro' version, which is licensed individually, please <a href="https://www.zeugwerk.at/kontakt/">contact us</a> for an offer.
 
 The Community Edition is to be used for non-commercial purposes only.
 
