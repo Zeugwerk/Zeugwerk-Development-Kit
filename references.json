@@ -1,23 +1,23 @@
 {
-    "version": "0.8.2.0",
+    "version": "0.10.0.0",
     "repositories":     [
-            {
+                {
             "name": "Zeugwerk-Framework",
             "url": "git@github.com:Zeugwerk/Zeugwerk-Framework.git"
         },
-            {
+                {
             "name": "Tutorial-Quickstart",
             "url": "git@github.com:Zeugwerk/Tutorial-Quickstart.git"
         },
-            {
+                {
             "name": "Tutorial-Quickstart-Visualization",
             "url": "git@github.com:Zeugwerk/Tutorial-Quickstart-Visualization.git"
-        },        
-            {
+        },
+                {
             "name": "Zeugwerk-DevTools",
             "url": "git@github.com:Zeugwerk/Zeugwerk-DevTools.git"
         },
-            {
+                {
             "name": "Zeugwerk-Creator",
             "url": "git@github.com:Zeugwerk/Zeugwerk-Creator.git"
         },
