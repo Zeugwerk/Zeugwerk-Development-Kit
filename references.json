@@ -64,6 +64,10 @@
                 {
             "name": "tc3routertool",
             "url": "git@github.com:infinite-automation/tc3routertool.git"
-        }
+        },
+                {
+            "name": "Zeugwerk-Deployment",
+            "url": "git@github.com:Zeugwerk/Zeugwerk-Deployment.git"
+        }        
     ]
 }
