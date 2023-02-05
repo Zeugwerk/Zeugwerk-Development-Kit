@@ -54,16 +54,8 @@
             "url": "git@github.com:Zeugwerk/ZExperimental.git"
         },
                 {
-            "name": "tc3servicetool",
-            "url": "git@github.com:infinite-automation/tc3servicetool.git"
-        },
-                {
-            "name": "tc3bindings",
-            "url": "git@github.com:infinite-automation/tc3bindings.git"
-        },
-                {
-            "name": "tc3routertool",
-            "url": "git@github.com:infinite-automation/tc3routertool.git"
+            "name": "Zeugwerk-Bindings",
+            "url": "git@github.com:Zeugwerk/Zeugwerk-Bindings.git"
         },
                 {
             "name": "Zeugwerk-Deployment",
