@@ -3,63 +3,63 @@
     "repositories":     [
                 {
             "name": "Zeugwerk-Framework",
-            "url": "git@github.com:Zeugwerk/Zeugwerk-Framework.git"
+            "url": "https://github.com/Zeugwerk/Zeugwerk-Framework.git"
         },
                 {
             "name": "Tutorial-Quickstart",
-            "url": "git@github.com:Zeugwerk/Tutorial-Quickstart.git"
+            "url": "https://github.com/Zeugwerk/Tutorial-Quickstart.git"
         },
                 {
             "name": "Tutorial-Quickstart-Visualization",
-            "url": "git@github.com:Zeugwerk/Tutorial-Quickstart-Visualization.git"
+            "url": "https://github.com/Zeugwerk/Tutorial-Quickstart-Visualization.git"
         },
                 {
             "name": "Zeugwerk-DevTools",
-            "url": "git@github.com:Zeugwerk/Zeugwerk-DevTools.git"
+            "url": "https://github.com/Zeugwerk/Zeugwerk-DevTools.git"
         },
                 {
             "name": "Zeugwerk-Creator",
-            "url": "git@github.com:Zeugwerk/Zeugwerk-Creator.git"
+            "url": "https://github.com/Zeugwerk/Zeugwerk-Creator.git"
         },
                 {
             "name": "ZCore",
-            "url": "git@github.com:Zeugwerk/ZCore.git"
+            "url": "https://github.com/Zeugwerk/ZCore.git"
         },
                 {
             "name": "ZPlatform",
-            "url": "git@github.com:Zeugwerk/ZPlatform.git"
+            "url": "https://github.com/Zeugwerk/ZPlatform.git"
         },
                 {
             "name": "ZAux",
-            "url": "git@github.com:Zeugwerk/ZAux.git"
+            "url": "https://github.com/Zeugwerk/ZAux.git"
         },
                 {
             "name": "ZEquipment",
-            "url": "git@github.com:Zeugwerk/ZEquipment.git"
+            "url": "https://github.com/Zeugwerk/ZEquipment.git"
         },
                 {
             "name": "ZApplication",
-            "url": "git@github.com:Zeugwerk/ZApplication.git"
+            "url": "https://github.com/Zeugwerk/ZApplication.git"
         },
                 {
             "name": "ZEquipmentBeckhoff",
-            "url": "git@github.com:Zeugwerk/ZEquipmentbeckhoff.git"
+            "url": "https://github.com/Zeugwerk/ZEquipmentbeckhoff.git"
         },
                 {
             "name": "ZEquipmentPepperlFuchs",
-            "url": "git@github.com:Zeugwerk/ZEquipmentpepperlfuchs.git"
+            "url": "https://github.com/Zeugwerk/ZEquipmentpepperlfuchs.git"
         },
                 {
             "name": "ZExperimental",
-            "url": "git@github.com:Zeugwerk/ZExperimental.git"
+            "url": "https://github.com/Zeugwerk/ZExperimental.git"
         },
                 {
             "name": "Zeugwerk-Bindings",
-            "url": "git@github.com:Zeugwerk/Zeugwerk-Bindings.git"
+            "url": "https://github.com/Zeugwerk/Zeugwerk-Bindings.git"
         },
                 {
             "name": "Zeugwerk-Deployment",
-            "url": "git@github.com:Zeugwerk/Zeugwerk-Deployment.git"
+            "url": "https://github.com/Zeugwerk/Zeugwerk-Deployment.git"
         }
     ]
 }
