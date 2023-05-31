@@ -49,7 +49,7 @@ The <a href="https://www.zeugwerk.at/wp-content/uploads/sites/43/2022/03/AGB_Zeu
 ## Contact
 
 Matthias Pfurtscheller | Matthias Seehauser<br />
-+43 512 209132<br />
++43 5224 21404<br />
 <a href="mailto:info@zeugwerk.at">info@zeugwerk.at</a> | <a href="https://zeugwerk.at">zeugwerk.at</a><br />
-Zeughausgasse 3<br />
-6020 Innsbruck, AUT<br />
+Weisstraße 9<br />
+6112 Wattens, AUT<br />
