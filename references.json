@@ -1,6 +1,6 @@
 {
     "version": "1.4.0.0",
-    "twinpack": "0.6.2.0",
+    "twinpack": "0.6.3.0",
     "repositories":     [
                 {
             "name": "Zeugwerk-Framework",
