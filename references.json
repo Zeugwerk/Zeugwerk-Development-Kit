@@ -1,5 +1,8 @@
 {
     "version": "1.4.0.0",
+    "provides": [
+        "Zeugwerk Framework"
+    ],       
     "twinpack": "0.6.4.0",
     "repositories":     [
                 {
