@@ -1,5 +1,8 @@
 {
     "version": "1.2.0.0",
+    "provides": [
+        "Zeugwerk Framework"
+    ],       
     "repositories":     [
                 {
             "name": "Zeugwerk-Framework",
