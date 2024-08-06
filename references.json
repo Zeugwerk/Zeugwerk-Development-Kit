@@ -3,7 +3,7 @@
     "provides": [
         "Zeugwerk Framework"
     ],    
-    "twinpack": "1.0.7.0",
+    "twinpack": "1.0.8.0",
     "repositories":     [
                 {
             "name": "Zeugwerk-Framework",
