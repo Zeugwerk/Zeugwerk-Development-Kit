@@ -70,6 +70,7 @@
         "Zeugwerk_Framework/changelog",
         "Zeugwerk_Framework/documentation",
         "Zeugwerk_Framework/build",
+        "Zeugwerk_Framework/test",
         "Zeugwerk_Framework/staging",
         "Zeugwerk_Framework/deploy",         
         "Zeugwerk_Creator/staging",         
