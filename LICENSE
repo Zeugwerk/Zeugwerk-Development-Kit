@@ -1,0 +1,105 @@
+General Software Terms and Conditions Version 4 as of April 2023
+Zeugwerk GmbH
+
+1. Subject of the contract
+
+1.1 These software terms and conditions apply to legal transactions between Zeugwerk GmbH as licensor and natural or legal persons as licensees, namely for the delivery and licensing of software and, accordingly, also for the provision of software services. Software within the meaning of these terms and conditions are computer programs distributed by the licensor as standard or developed or adapted individually for the licensee within the meaning of Section 40a of the Austrian Copyright Act for use on, operation or control of electrotechnical and/or electronic devices and systems, including documents provided for this purpose in accordance with point 5.
+
+1.2 The scope of services and related software services and any additional services must be defined in individual contracts. These conditions also apply to these software services and additional services.
+
+2. Grant of rights
+
+2.1. Unless otherwise agreed in an individual contract, the licensee receives the non-transferable and non-exclusive right to use the software at the agreed installation location in compliance with the contractual specifications. In the case of hardware supplied, this right is limited exclusively to use on this hardware.
+In the case of stand-alone software, use is only permitted on the hardware defined in the contract in terms of type, number and location. Use on hardware other than that defined in the contract and on multiple workstations requires a separate written agreement.
+2.2 All other rights to the software are reserved to the licensor. Without the licensor's prior written consent, the licensee is therefore not entitled, without prejudice to the provisions of Section 40d of the Austrian Copyright Act, to reproduce the software, modify it, make it available to third parties or use it on hardware other than that defined in the contract.
+
+3. Restrictions
+3.1 Unless otherwise agreed in an individual contract, neither the licensee nor others with the licensee's consent are entitled to:
+(a) copy the software, except for backup purposes as part of your authorized use of the software. Each such copy must contain all copyright information and other proprietary notices contained in the original software. The licensee is not entitled to sell, lease, license, rent or otherwise transfer copies of the software to third parties.
+(b) to change, adapt, translate, reverse engineer, decompile or disassemble the source code of the software or otherwise attempt to reconstruct it.
+(c) to sublicense, lease, outsource or rent the software or to authorize a third party to use the software for their own benefit or for the benefit of third parties.
+(d) to distribute, modify or create derivative works of the software in whole or in part or to distribute applications created using the software.
+
+4. Conclusion of contract
+4.1 In case of doubt, offers from the licensor are deemed to be non-binding. The contract for the delivery and licensing of the software, including the associated software services to be agreed upon in an individual contract, is deemed to be concluded when the licensor confirms the order in writing after receiving the licensee's order or has made the first partial delivery.
+4.2 All offer and project documents may not be copied or made available to third parties without the consent of the licensor. They can be requested back at any time and must be returned to the licensor immediately if no contract is concluded between the licensor and the licensee for the order in question.
+4.3 Subsequent changes and additions to the contract for the delivery and licensing of the software, including these terms and conditions, must be made in writing. Provisions deviating from these terms and conditions are deemed to be agreed in an individual contract if the licensor expressly agrees to them.
+5. Licensee's duty to cooperate
+Subject to an individual contractual arrangement, the licensee is responsible for:
+a) Selecting the software offered by the licensor;
+b) In the case of customized software, for transmitting all information required to create a specification;
+c) Using the software and the results achieved with it;
+d) Installing new versions and updates made available to him;
+
+6. Software specifications
+6.1 The licensor provides the specifications for standard software.
+6.2 For customized software commissioned by the licensee, a specification must be agreed in writing between the licensor and the licensee.
+6.3 Software specifications can include, for example, performance characteristics, documentation on special functions, hardware and software requirements, installation requirements, operating conditions, operation (operator manual).
+6.4 The licensee is responsible for compliance with the software specifications, in particular the operating conditions, as well as for obtaining and complying with any official approval conditions.
+7. Delivery, risk and acceptance
+7.1 Unless otherwise agreed in an individual contract, the licensor delivers the software to the licensee in machine-readable form. This takes place either in the form of a physical delivery or handover of a physical data carrier or by making it available in electronic form (e.g. download). The licensor is entitled to deliver the current version at the time of delivery.
+7.2 If no delivery date is agreed, the delivery date will be communicated to the licensee by the licensor.
+7.3 The delivery of software and data storage media is at the licensee's risk.
+7.4 If acceptance is planned, the software is available to the licensee for free use during a test period. The test period begins with delivery of the software or with making it available in electronic form in accordance with point 6.1 and lasts one week, unless otherwise agreed in an individual contract.
+7.5 The software is deemed to have been accepted after the test period has expired if:
+7.5.1 the licensee confirms compliance with the contractual specifications;
+7.5.2 the licensee does not complain in writing about significant defects during the test period; or
+7.5.3 the licensee uses the software as part of his business operations after the test period has expired.
+7.6 If acceptance is not planned, the time of delivery takes the place of acceptance with regard to the legal consequences in accordance with point 7.1. In any case, the risk shall pass to the Licensee upon delivery.
+
+8. Warranty
+8.1 The parties agree that it is impossible to develop software in such a way that it can meet all requirements when used without errors. The Licensor provides the Licensee with user documentation that explains the intended use and the terms of use of the Licensed Software and that is always kept up to date.
+8.2 The Licensor guarantees that the Licensed Software essentially corresponds to the user documentation. There are no warranty claims for minor and insignificant deviations from the agreed or assumed properties and for only minor impairments. Descriptions in the user documentation are neither guaranteed nor assured unless this is agreed separately in writing. With regard to updates and modifications, the warranty is limited to the new features of the update or modification compared to the previous version.
+8.3 In the event of a significant deviation from the user documentation, the Licensor has the right and, as long as this does not involve disproportionate effort and it is technically possible, the obligation to eliminate the error by means of repair or replacement. The error can also be eliminated by delivering or installing a new version of the Licensed Software or a workaround. If the Licensor does not eliminate the deviation from the user documentation within a reasonable time or the Licensor is unable to prevent deviations in such a way that the use of the Licensed Software is possible in accordance with this Agreement, the Licensee can demand a reduction in the license fees or, if the Licensed Software becomes useless for the Licensee as a result, terminate the license for the Licensed Software against repayment of the license fees.
+8.4 The Licensee undertakes to provide the Licensor with verifiable documentation regarding the nature and frequency of such deviations when using the Licensed Software and to support the Licensor in identifying errors.
+8.5 The warranty does not cover errors that are caused by deviations from the intended use described in the user documentation. Furthermore, the warranty is excluded if the licensee has not installed updates that have already been made available.
+8.6 All warranty claims expire after one year. The warranty begins with the delivery of the licensed material to the licensee. The warranty is limited to the warranty claims specified in § 8 and 9. Further warranty claims are excluded.
+8.7 The licensee should inform the licensor of any malfunctions of the licensed software, including the environmental conditions, that the licensee has remedied himself or that have been remedied by restarting or using repair mechanisms in the software, in order to give the licensor the opportunity to reproduce the malfunction himself.
+
+9. Industrial property rights and copyright
+9.1 The licensor will support the licensee in defending against all claims based on the fact that software used in accordance with the contract violates an industrial property right or copyright that is valid under Austrian law. The licensee will notify the licensor immediately in writing if such claims are made against him and, in the event of a legal dispute, issue a notice of dispute in order to give him the opportunity to join the proceedings.
+9.2 If claims are asserted for the violation of industrial property rights for which the licensor is responsible, the licensor can change, replace or obtain a right of use for the software at its own expense. If this is not possible with reasonable effort, the licensee must, at the licensor's request, immediately return the original and all copies of the software, including documents provided, against reimbursement of the fee. All claims of the licensee regarding the violation of industrial property rights and copyright, to the exclusion of any further obligation on the part of the licensor, are hereby conclusively settled.
+9.3 The licensor reserves the right to examine the agreed use of the software itself or through commissioned third parties ("subcontractors") ("audit"), provided that it announces the audit in writing 14 days in advance. The licensee is obliged to cooperate in the audit and to grant the licensor or its subcontractors sufficient access to information related to the use of the software (e.g. servers, business books, etc.). Any underpaid fee must be paid within 14 days of a written request. In addition, the licensor is entitled to terminate the contract extraordinarily. The cost of the audit must be agreed separately.
+9.4 The licensee ensures through technical or other measures that the software does not fall under the same OSS license conditions as the open source software it uses.
+9.5 For software for which the licensor only has a derived right of use (third-party software), the terms of use agreed between the licensor and its licensor apply in addition to and with priority over the present conditions, insofar as they concern the licensee (such as the End User License Agreement). The licensor draws attention to these and makes them available to the licensee upon request.
+9.6 The licensee is responsible for safeguarding all of the licensor's rights (such as industrial property rights, copyright including the right to a copyright notice) to the software and safeguarding the licensor's claims to the confidentiality of trade and business secrets, including by employees and vicarious agents of the licensee or third parties; this also applies if the software has been modified or combined with other programs. This obligation remains in effect even after the contract has ended;
+
+10. Liability
+10.1 Unless otherwise agreed in an individual contract, the licensor is liable for damages only if it can be proven that he acted intentionally or with gross negligence, within the framework of the statutory provisions. The licensor's total liability in cases of gross negligence is limited to the net order value or EUR 500,000, whichever is lower. The licensor's liability is limited to 25% of the net order value or EUR 125,000 per case of damage, whichever is lower.
+10.2 Unless otherwise agreed, liability for slight negligence, with the exception of personal injury, as well as compensation for consequential damages, pure financial losses, indirect damages, loss of production, financing costs, costs for replacement energy, loss of energy, data or information, lost profits, savings not achieved, interest losses and damages from third-party claims against the licensee are excluded.
+10.3 Unless otherwise agreed in an individual contract, any compensation is excluded in the event of non-compliance with any conditions for installation, implementation and use (such as those contained in operating instructions) or official approval conditions.
+10.4 If contractual penalties are agreed, any further claims by the licensee from the respective title are excluded.
+10.5 Unless otherwise agreed in an individual contract, the licensor assumes no liability whatsoever for the cases mentioned in point 8.8.
+10.6 The licensee is liable to the licensor for the violation of the obligations assumed in point 6.4 and shall indemnify and hold the licensor harmless.
+10.7 The provisions of point 10 apply conclusively to all claims of the licensee against the licensor, regardless of the legal basis and title, and are also effective for all employees, subcontractors and sub-suppliers of the licensor.
+
+11. Payment
+11.1 The amount and due date of the one-off and/or ongoing usage fee must be agreed in an individual contract, as must any value protection.
+11.2 The licensor has the right to send the invoice electronically.
+
+12. Duration and termination of contract
+12.1 The duration of the right of use is determined by the contract. The right of use ends in any case upon expiry of the agreed period of use or is limited to the period of use of the hardware defined in the contract.
+12.2 Upon termination of the right of use, the licensee is obliged, at the licensor's discretion, to return all software, including any documentation provided, to the licensor or to destroy it in a verifiable manner. This also applies to software that has been modified or linked to other programs.
+12.3 If no agreement can be reached within a reasonable period of time on the acceptance of the specifications for customized software, the licensor is entitled to terminate the contract with immediate effect. Services provided up to that point must be reversed in accordance with the statutory provisions.
+12.4 If the licensee does not meet his obligations, the licensor is entitled to refuse to provide the service and, after setting a reasonable period of time, to withdraw from the contract. In any case, the licensee is liable for all damages (for example, downtime, etc.) incurred by the licensor as a result of non-compliance with these obligations.
+
+12.5 If insolvency proceedings are opened against the licensee's assets or an application to initiate insolvency proceedings is rejected due to insufficient assets, the licensor is entitled to withdraw from the contract without setting a grace period. If this withdrawal is exercised, it will take effect immediately upon the decision that the company will not be continued. If the company is continued, a withdrawal will only take effect 6 months after the insolvency proceedings have been opened or after the application for opening has been rejected due to insufficient assets. In any case, the contract will be terminated with immediate effect, provided that the insolvency law to which the licensee is subject does not preclude this or if the termination of the contract is essential to prevent serious economic disadvantages for the licensor.
+
+13 Assertion of claims
+All claims of the licensee must be asserted in court within 3 years of the services being provided, otherwise the claim will be lost, unless mandatory legal provisions stipulate other deadlines.
+
+14 Compliance with export regulations
+14.1 When passing on the goods supplied by the licensor and associated documentation to third parties, regardless of the manner in which they are made available or the services provided by the licensor, including technical support of any kind, the licensee must comply with the applicable provisions of the national and international (re-)export regulations. In any case, when passing on the goods or services to third parties, the licensee must observe the (re-)export regulations of the licensor's country of residence, the European Union, the United Kingdom of Great Britain and Northern Ireland and the United States of America.
+14.2 If required for export control checks, the licensee must immediately provide the licensor with all necessary information upon request, including information on the end recipient, final destination and intended use of the software or services.
+
+15. General
+15.1 The licensor must inform the licensee if it uses the services of subcontractors. Group companies of the licensor are deemed to have been approved in advance.
+15.2 If individual provisions of the contract or these terms and conditions are invalid, the validity of the remaining provisions shall not be affected. The invalid provision shall be replaced by a valid one that comes as close as possible to the intended goal.
+
+15.3 The German language version is considered to be the authentic version of the terms and conditions and shall also be used to interpret the contract.
+
+16. Place of jurisdiction and law
+The competent court at the headquarters of Zeugwerk GmbH shall have exclusive jurisdiction to decide all disputes arising from the contract - including those concerning its existence or non-existence. The contract is subject to Austrian law, excluding the rules of referral. The application of the United Nations UNCITRAL Convention on Contracts for the International Sale of Goods is excluded.
+
+17 Reservation clause
+The fulfillment of the contract by the licensor is subject to the proviso that there are no obstacles to fulfillment due to national or international (re-)export regulations, in particular no embargoes and/or other sanctions.
