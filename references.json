@@ -58,10 +58,6 @@
             "url": "https://github.com/Zeugwerk/ZExperimental.git"
         },
                 {
-            "name": "Zeugwerk-Bindings",
-            "url": "https://github.com/Zeugwerk/Zeugwerk-Bindings.git"
-        },
-                {
             "name": "Zeugwerk-Deployment",
             "url": "https://github.com/Zeugwerk/Zeugwerk-Deployment.git"
         }
