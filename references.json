@@ -44,6 +44,10 @@
             "url": "https://github.com/Zeugwerk/ZEquipmentbeckhoff.git"
         },
                 {
+            "name": "ZEquipmentCiA402",
+            "url": "https://github.com/Zeugwerk/ZEquipmentCiA402.git"
+        },
+                {
             "name": "ZEquipmentPepperlFuchs",
             "url": "https://github.com/Zeugwerk/ZEquipmentpepperlfuchs.git"
         },
