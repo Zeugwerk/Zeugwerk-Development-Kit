@@ -1,8 +1,6 @@
 {
-    "version": "1.5.0.0",
-    "provides": [
-        "Zeugwerk Framework"
-    ],    
+    "version": "1.7.0.0",
+    "provides": ["Zeugwerk Framework"],
     "twinpack": "1.0.11.0",
     "repositories":     [
                 {
@@ -58,14 +56,14 @@
             "url": "https://github.com/Zeugwerk/Zeugwerk-Deployment.git"
         }
     ],
-    "pipelines": [
+    "pipelines":     [
         "Zeugwerk_Framework/changelog",
         "Zeugwerk_Framework/documentation",
         "Zeugwerk_Framework/build",
         "Zeugwerk_Framework/test",
         "Zeugwerk_Framework/staging",
-        "Zeugwerk_Framework/deploy",         
-        "Zeugwerk_Creator/staging",         
+        "Zeugwerk_Framework/deploy",
+        "Zeugwerk_Creator/staging",
         "Zeugwerk Deployment/Durst Group AG/branding/",
         "Zeugwerk-Development-Kit/changelog",
         "Zeugwerk-Development-Kit/staging",
