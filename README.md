@@ -13,10 +13,7 @@ Zeugwerk Creator is an extension of the development environment (TwinCAT XAE She
 
 ## Quickstart
 
-To get started quickly, we created **Zeugwerk Development Kit**. It contains the PLC libraries and the application template, which together form the Zeugwerk Framework. Moreover, it installs Zeugwerk Creator as an extension of the TwinCAT XAE Shell development environment for fast, error-free development.
-Additionally, to show you how it feels to develop a Zeugwerk application, it includes the template for a Quickstart application and an interactive, virtual model for commissioning.
-
-Download <a href="https://doc.zeugwerk.dev/quickstart/quickstart.html">Zeugwerk-Development-Kit CE</a> (Community Edition) and then walkthrough the <a href="https://doc.zeugwerk.dev/quickstart/quickstart.html">Quickstart guide</a>.
+To get started as quickly as possible with our products, we created **Zeugwerk Development Kit**, a comprehensive package with a trial license that equips you with all the necessary tools for building Zeugwerk Applications. You can <a href="https://github.com/Zeugwerk/Zeugwerk-Development-Kit/releases/latest">download</a> and use the applications bundled with the Development Kit free of charge for 60 days. Please use our <a href="https://doc.zeugwerk.dev/userguide/tutorials/zgwk_install_guide.html">Install Guide</a> and <a href="https://doc.zeugwerk.dev/quickstart/quickstart.html">Quickstart Tutorial</a> to get started.
 
 <div class="gallery">
   <div class="gallery-item">
@@ -28,23 +25,23 @@ Download <a href="https://doc.zeugwerk.dev/quickstart/quickstart.html">Zeugwerk-
 </div>
 
 <br />
-The framework libraries of the Community Edition are fully functional for 4 hours, then the runtime is switched to config mode. The Community Edition is to be used for non-commercial purposes only.
 
 ## Documentation
 
 The Zeugwerk Framework offers extensive documentation.
-- <a href="https://doc.zeugwerk.dev/index.html">Overview Community and Pro Edition</a>
 - <a href="https://doc.zeugwerk.dev/quickstart/quickstart.html">Getting started with Zeugwerk (Quickstart)</a>
 - <a href="https://doc.zeugwerk.dev/reference/ZCore/BaseTypes/Conversion/ZBytes2.html">API reference</a>
-- <a href="https://doc.zeugwerk.dev/userguide/tutorials/tutorials.html">User Guide (Tutorials, Overview, Concepts, ...)</a> 
+- <a href="https://doc.zeugwerk.dev/userguide/creator/framework_integration.html?tabs=tabid-1">User Guide (Tutorials, Overview, Concepts, ...)</a> 
 
 ## License
 
-For commercial use, the Zeugwerk products are available as a 'Pro' version, which is licensed individually, please <a href="https://www.zeugwerk.at/kontakt/">contact us</a> for an offer.
+For commercial use, the Zeugwerk Framework is available as a Runtime license for your automation project, please <a href="https://www.zeugwerk.at/kontakt/">contact us</a> for an offer.
 
-The Community Edition is to be used for non-commercial purposes only.
+The Zeugwerk Creator can be <a href="https://www.zeugwerk.at/zeugwerk-creator-buy/">configured as a subscription</a> individually.
 
-The <a href="https://www.zeugwerk.at/wp-content/uploads/sites/43/2022/03/AGB_ZeugwerkGmbH_V2.pdf">general terms and conditions</a> and <a href="https://www.zeugwerk.at/wp-content/uploads/sites/43/2022/03/ASB_ZeugwerkGmbH_V2.pdf">software conditions</a> for the Zeugwerk products can be found on the <a href="https://www.zeugwerk.at">Zeugwerk website</a>.
+The trial version is to be used for non-commercial purposes only.
+
+The <a href="https://www.zeugwerk.at/wp-content/uploads/2024/06/AGB_ZeugwerkGmbH_V2.pdf">general terms and conditions</a> and <a href="https://www.zeugwerk.at/wp-content/uploads/2024/06/ASB_ZeugwerkGmbH_V4.pdf">software conditions</a> for the Zeugwerk products can be found on the <a href="https://www.zeugwerk.at">Zeugwerk website</a>.
 
 ## Contact
 
