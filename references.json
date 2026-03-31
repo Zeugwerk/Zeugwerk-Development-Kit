@@ -62,7 +62,7 @@
     ],
     "pipelines":     [
         "Zeugwerk_Framework/changelog",
-        "Zeugwerk_Framework/documentation",
+        "Zeugwerk Website Docs",
         "Zeugwerk_Framework/build",
         "Zeugwerk_Framework/test",
         "Zeugwerk_Framework/staging",
